@@ -1,0 +1,24 @@
+body{
+    min-width: 400px;
+    overflow: auto;
+    background-color: rgb(121, 199, 173);
+}
+#wrapper{
+    width: 412px;
+    margin: 10px auto;
+    
+}
+#input-el{
+    display: inline-block;
+    width: 100%;
+}
+#btn-el,#render-el,#delete-el,#tab-el{
+    border: none;
+    margin-top: 10px;
+    width: 100px;
+    padding: 5px;
+    font-weight: bold;
+    background-color: darkorange;
+    color: white;
+}
+
